@@ -1,6 +1,6 @@
 # SitizenFX Native Project
 
-This directory contains the primary native CitizenFX project.
+This directory contains the primary native sitizenFX project.
 
 * [**client/**](./client): A historical misnomer, contains common code shared across projects, as well as the client launcher logic.
 * [**components/**](./components): Contains most of the code as part of a 'component' system.

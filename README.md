@@ -112,5 +112,5 @@ Vidlluc is fully independent and licensed under the SitizenFX Proprietary Licens
 - Focus on cross-game multiplayer and content creation tools  
 - Maintaining full proprietary control while enabling developer creativity via APIs and SDKs
 ----
-📜License
+📜 ##License
 Vidlluc is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/Sfx-re/Vidlluc/blob/735ee671b770d62375ae3d72d2c2036bfa0ad4d9/code/LICENSE) file in the repository.

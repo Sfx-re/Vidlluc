@@ -14,4 +14,4 @@ To play Vidlluc, simply download the launcher binaries from the [website] coming
 To develop FiveM, please follow the documentation in [docs/](https://github.com/Sfx.re/Vidlluc/tree/master/docs) in the repository.
 
 ## License
-Vidlluc is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/Sfx.re/fivem/blob/master/code/LICENSE) file in the repository.
+Vidlluc is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/Sfx-re/Vidlluc/blob/735ee671b770d62375ae3d72d2c2036bfa0ad4d9/code/LICENSE) file in the repository.

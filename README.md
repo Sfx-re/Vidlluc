@@ -1,8 +1,8 @@
-# 🚀 SitizenFX (Vidlluc)
+# 🚀 SitizenFX (Vidlluc) – Version 2.0 (September 2025)
 
-Vidlluc Engine is a proprietary multiplayer and game framework developed and maintained by Sfx.re Limited.  
+Vidlluc Engine is the **new version of Vidllux**, a proprietary multiplayer and game framework developed and maintained by Sfx.re Limited.  
 It is a custom fork of the CitizenFX framework, expanded with new systems, branding, and modules.  
-Vidlluc is a modification for Grand Theft Auto V enabling you to play multiplayer on customized dedicated servers, powered by Sfx.re.
+Vidlluc enables multiplayer on customized dedicated servers, powered by Sfx.re, with next-gen improvements in performance, security, and modularity.
 
 ---
 
@@ -42,7 +42,7 @@ A response will be provided within 24 hours.
 
 ## 🛠 Origin
 
-- Vidlluc → fork of the CitizenFX / FiveM framework (MIT licensed)  
+- Vidlluc → the new version of Vidllux, fork of the CitizenFX / FiveM framework (MIT licensed)  
 - Vage → fork of the Godot Engine (MIT licensed)  
 - FAGE → fork of the SCons build system (MIT licensed)  
 
@@ -90,7 +90,7 @@ Sfx.re Limited / Elijah Siita (VidllQ Authority)
 
 ## ⚡ TL;DR
 
-Vidlluc Engine = Proprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
+Vidlluc Engine = **New Version of Vidllux** + Proprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
 Protected: no entity, including Rockstar, can legally claim or remove the source code.
 
 ---
@@ -106,8 +106,10 @@ Vidlluc is fully independent and licensed under the SitizenFX Proprietary Licens
 
 ## 🔮 Future Direction
 
-- GTA V support may be discontinued in future updates  
-- Focus will shift to Minecraft and potentially other major titles  
-- Vidlluc aims to evolve into a cross-game multiplayer framework, maintaining proprietary control while enabling content creation through APIs and SDKs
+- Improved performance and modularity for next-gen servers  
+- Expanded API support for custom gameplay modules  
+- GTA V support may be phased out in future updates  
+- Focus on cross-game multiplayer and content creation tools  
+- Maintaining full proprietary control while enabling developer creativity via APIs and SDKs
 ## License
 Vidlluc is licensed under a dual license, details of which are in the [code/LICENSE](https://github.com/Sfx-re/Vidlluc/blob/735ee671b770d62375ae3d72d2c2036bfa0ad4d9/code/LICENSE) file in the repository.

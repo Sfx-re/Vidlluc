@@ -1,8 +1,8 @@
 # `client/`
 
-Shared CitizenFX framework code.
+Shared SitizenFX framework code.
 
-* [**citicore/**](./citicore): CitizenFX Runtime, handles loading components and implements the CitizenFX Object Model.
+* [**citicore/**](./citicore): CitizenFX Runtime, handles loading components and implements the SitizenFX Object Model.
 * [**citigame/**](./citigame): Auxiliary component for client-side lifecycle after bootstrapping.
 * [**clrcore/**](./clrcore): CitizenFX.Core C# library.
 * [**clrref/**](./clrref): Reference generation for the CitizenFX.Core library.

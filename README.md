@@ -90,7 +90,7 @@ Sfx.re Limited / Elijah Siita (VidllQ Authority)
 
 ## ⚡ TL;DR
 
-Vidlluc Engine = **New Version of Vidllux** + Proprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
+Vidlluc Engine = New Version of VidlluxNewProprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
 Protected: no entity, including Rockstar, can legally claim or remove the source code.
 
 ---

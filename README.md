@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/Sfx-re/Vidlluc/raw/f5632d5ab205767bed1dfb050ae7a5a6bac142b9/logo.png" width="32" height="32">
+  <img src="https://github.com/Sfx-re/Vidlluc/raw/f5632d5ab205767bed1dfb050ae7a5a6bac142b9/logo.png" width="128" height="128">
 </p>
 
 # 🚀 SitizenFX (Vidlluc) – Version 2.0 (September 2025)

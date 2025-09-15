@@ -1,8 +1,10 @@
-<p align="left">
-  <img src="https://github.com/Sfx-re/Vidlluc/raw/f5632d5ab205767bed1dfb050ae7a5a6bac142b9/logo.png" width="128" height="128">
+<p align="center">
+  <img src="https://github.com/Sfx-re/Vidlluc/raw/f5632d5ab205767bed1dfb050ae7a5a6bac142b9/logo.png" width="256" height="256">
 </p>
 
 # 🚀 SitizenFX (Vidlluc) – Version 2.0 (September 2025)
+
+**TL;DR:** Vidlluc Engine = New version of Vidllux, proprietary multiplayer framework, fully custom, protected under Sfx.re Proprietary License. No entity, including Rockstar, can claim or remove this source code.
 
 Vidlluc Engine is the **new version of Vidllux**, a proprietary multiplayer and game framework developed and maintained by Sfx.re Limited.  
 It is a custom fork of the CitizenFX framework, expanded with new systems, branding, and modules.  
@@ -12,8 +14,7 @@ Vidlluc enables multiplayer on customized dedicated servers, powered by Sfx.re, 
 
 ## 🔒 Security Notice
 
-SitizenFX / Sfx.re Limited takes the security of Vidlluc Engine and its services very seriously.  
-This includes both the framework itself and any multiplayer or online components.
+SitizenFX / Sfx.re Limited takes the security of Vidlluc Engine and its services very seriously, including both the framework itself and any multiplayer or online components.
 
 ### 🚫 Rockstar / Take-Two Boundary
 Vidlluc is an independent, proprietary project.  
@@ -21,9 +22,7 @@ Rockstar Games, Take-Two Interactive, or any affiliated entities are strictly fo
 Any attempt by such entities to interfere with Vidlluc will be considered a violation of this license.
 
 ### Usage & Restrictions
-Vidlluc Engine is proprietary software.  
-You are allowed to use the framework, but not the source code.
-
+Vidlluc Engine is proprietary software. You are allowed to use the framework, but not the source code.  
 You are not permitted to:  
 - Access, modify, or decompile the source code  
 - Redistribute, upload, or share any files publicly  
@@ -46,9 +45,9 @@ A response will be provided within 24 hours.
 
 ## 🛠 Origin
 
-- Vidlluc → the new version of Vidllux, fork of the CitizenFX / FiveM framework (MIT licensed)  
-- Vage → fork of the Godot Engine (MIT licensed)  
-- FAGE → fork of the SCons build system (MIT licensed)  
+- **Vidlluc** → the new version of Vidllux, fork of the CitizenFX / FiveM framework (MIT licensed)  
+- **Vage Engine** → fork of the Godot Engine (MIT licensed)  
+- **FAGE** → fork of the SCons build system (MIT licensed)  
 
 ---
 
@@ -80,7 +79,7 @@ A response will be provided within 24 hours.
 ## 🎥 Subscribe to VidllQ on YouTube
 
 For tutorials, updates, and demos:  
-👉 [Subscribe to VidllQ on YouTube](https://www.youtube.com/@Mrsiita)
+👉 [Subscribe to VidllQ](https://www.youtube.com/@Mrsiita)
 
 ---
 
@@ -92,22 +91,6 @@ Sfx.re Limited / Elijah Siita (VidllQ Authority)
 
 ---
 
-## ⚡ TL;DR
-
-Vidlluc Engine = New Version of VidlluxNewProprietary + Multiplayer Framework + Fully Custom + Internal Studio Use Only  
-Protected: no entity, including Rockstar, can legally claim or remove the source code.
-
----
-
-## 🎮 Requirements & Legal Notice
-
-Vidlluc is a proprietary modification platform and requires a legally purchased copy of Grand Theft Auto V to function.  
-Purchase of Vidlluc does not include GTA V. Users must obtain GTA V from authorized retailers before using Vidlluc.  
-
-Vidlluc is fully independent and licensed under the SitizenFX Proprietary License.
-
----
-
 ## 🔮 Future Direction
 
 - Improved performance and modularity for next-gen servers  
@@ -115,4 +98,3 @@ Vidlluc is fully independent and licensed under the SitizenFX Proprietary Licens
 - GTA V support may be phased out in future updates  
 - Focus on cross-game multiplayer and content creation tools  
 - Maintaining full proprietary control while enabling developer creativity via APIs and SDKs
-----
